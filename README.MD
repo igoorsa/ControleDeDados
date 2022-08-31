@@ -6,4 +6,4 @@
 
 ### Feito no servidor WAMP
 
-#### Foi usado as seguintes linguagens e framework: HTML, BOOTSTRAP, PHP.
+#### Foi usado as seguintes linguagens e framework: HTML, BOOTSTRAP, PHP..
